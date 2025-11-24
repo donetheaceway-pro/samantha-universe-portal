@@ -1,0 +1,1 @@
+console.log('Dashboard V5 loaded');document.getElementById('novaButton').onclick=()=>alert('Nova engaged (V5)');

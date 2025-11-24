@@ -1,0 +1,1 @@
+document.getElementById('novaButton').onclick=()=>alert('Portal Nova (V5)');
